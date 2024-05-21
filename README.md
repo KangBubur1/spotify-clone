@@ -41,10 +41,10 @@ This project is based on the following YouTube tutorial:
 
 ## 💻 Technologies Used
 
-- **Next.js**: The React framework for production.
-- **TailwindCSS**: A utility-first CSS framework for rapidly building custom designs.
-- **TypeScript**: Typed JavaScript at Any Scale.
-- **Vercel**: Platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database.
+- **Next.js**
+- **TailwindCSS**
+- **TypeScript**
+- **Supabase**
 
 ## 🛠️ Installation
 
@@ -74,28 +74,4 @@ yarn dev
 # or
 pnpm dev
 ```
-
-## 📂 Project Structure
-
-```bash
-.
-├── app
-│   ├── page.tsx
-│   └── ...
-├── public
-│   ├── favicon.ico
-│   └── ...
-├── styles
-│   ├── globals.css
-│   └── ...
-├── next.config.js
-├── package.json
-└── ...
-```
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](#).
 
