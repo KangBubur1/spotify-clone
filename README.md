@@ -1,7 +1,3 @@
-Certainly! Here’s a visually appealing README template for your Spotify clone project using Next.js, TailwindCSS, and following a YouTube tutorial. This template incorporates icons and a structured format to make it more engaging.
-
----
-
 # 🎵 Spotify Clone
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -103,6 +99,3 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](#).
 
-## 📄 License
-
-This project is licensed under
