@@ -4,7 +4,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-This is a Spotify clone project built with [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/), and following a YouTube tutorial. The goal of this project is to learn and practice these technologies.
+This is a Spotify clone project built with [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/), and following a YouTube tutorial CodeWithAntonio (https://www.youtube.com/watch?v=2aeMRB8LL4o). The goal of this project is to learn and practice these technologies.
 
 ## 🚀 Getting Started
 
@@ -74,4 +74,5 @@ yarn dev
 # or
 pnpm dev
 ```
+![image](https://github.com/KangBubur1/spotify-clone/assets/95082947/df4bb83b-93a1-42f3-9fcc-4cc36b344ba7)
 
